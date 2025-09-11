@@ -2,6 +2,12 @@
 
 This repository should have the following topics/tags for better discoverability:
 
+## Short Description
+**Suggested description for GitHub:**
+```
+Professional CV/Resume web application built with Next.js, TypeScript, and Firebase. Features PDF generation, multi-language support, and admin dashboard.
+```
+
 ## Primary Technologies
 - `nextjs` - Built with Next.js 15
 - `typescript` - Full TypeScript implementation
@@ -31,7 +37,9 @@ This repository should have the following topics/tags for better discoverability
 To add these topics to your GitHub repository:
 1. Go to https://github.com/boom-digital/CVAPP
 2. Click the gear icon ⚙️ next to "About"
-3. Add the topics listed above in the "Topics" field
-4. Save changes
+3. Add the **short description** in the "Description" field
+4. Add the **topics** listed above in the "Topics" field
+5. Optionally add a **website URL** if you have a live demo
+6. Save changes
 
 These topics will help other developers discover your project and understand its purpose quickly.
