@@ -20,7 +20,8 @@ import {
   Menu,
   Settings,
   Mail,
-  Eye
+  Eye,
+  Palette
 } from 'lucide-react';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
 import {
@@ -39,6 +40,7 @@ const navItems = [
   { href: '/admin/dashboard/skills', label: 'Compétences', icon: Star },
   { href: '/admin/dashboard/projects', label: 'Projets', icon: Code },
   { href: '/admin/dashboard/contacts', label: 'Contacts', icon: Mail },
+  { href: '/admin/dashboard/appearance', label: 'Apparence', icon: Palette },
 ];
 
 export default function AdminLayout({
